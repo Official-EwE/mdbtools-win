@@ -30,7 +30,7 @@ _Still in MingW32 for this_
 ```sh
 cd
 mkdir /mdbtools-win
-cp -p /mdbtools/src/COPYING* /mdbtools-win/
+cp -p /mdbtools/COPYING* /mdbtools-win/
 cp -p /mdbtools/src/util/.libs/*.exe /mdbtools-win/
 cp -p /mdbtools/src/sql/.libs/*.dll /mdbtools-win/
 cp -p /mdbtools/src/libmdb/.libs/*.dll /mdbtools-win/
